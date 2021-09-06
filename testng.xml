@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Ecommerce Test Suite">
+	<test name="Amazon Test">
+		<classes>
+			<class name="com.webapp.test.amazon.AmazonSearchBarTest"></class>
+		</classes>
+	</test>
+	<test name="Flipkart Test">
+		<classes>
+			<class name="com.webapp.test.flipkart.FlipkartSourceURLTest"></class>
+			<class name="com.webapp.test.flipkart.FlipkartSourceURLAssertEqualsTest"></class>
+		</classes>
+	</test>
+	<test name="Sample Test">
+		<classes>
+			<class name="com.webapp.test.TestNGStandardAnnotationsTest"></class>
+		</classes>
+	</test>
+</suite>
