@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <suite name="Ecommerce Test Suite">
-	<test name="Amazon Test">
+	<test name="Amazon_Test">
 		<classes>
 			<class name="com.webapp.test.amazon.AmazonSearchBarTest"></class>
 		</classes>
